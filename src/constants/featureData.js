@@ -405,38 +405,7 @@ export const featuresData = [
     shortDescription: "Unified sales and finance platform",
     tags: ["Accounting", "Sales", "Finance"],
   },
-  {
-    slug: "white-label-domain",
-    title: "White Label Domain",
-    description:
-      "Brand our platform as your own with complete white labeling options.",
-    icon: Globe,
-    color: "bg-gray-100",
-    detailedDescription: "Our White Label Domain service includes:",
-    features: [
-      "Custom domain",
-      "Your branding throughout",
-      "White label mobile apps",
-      "Custom email templates",
-      "Dedicated support",
-    ],
-    cta: "Launch your branded platform",
-    steps: [
-      "Register your domain",
-      "Upload your branding assets",
-      "Configure your settings",
-      "Test your white label experience",
-      "Invite your team",
-    ],
-    benefits: [
-      "Professional branded appearance",
-      "Increase customer trust",
-      "Stand out from competitors",
-      "Enterprise-grade infrastructure",
-    ],
-    shortDescription: "Complete platform white labeling",
-    tags: ["Branding", "Customization", "Enterprise"],
-  },
+
   {
     slug: "sms-automation",
     title: "SMS Automation",

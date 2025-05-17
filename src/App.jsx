@@ -13,6 +13,7 @@ import Services from "./pages/Services/Service";
 import Bloglist from "./pages/Blog/Blog";
 import BlogDetail from "./pages/Blog/BlogDetail";
 import Contact from "./pages/Contact/Contact";
+import Automate from "./pages/Automate/Automate";
 
 function App() {
   // http://localhost:5173
@@ -29,6 +30,7 @@ function App() {
           <Route path="/blog" element={<Bloglist />} />
           <Route path="/blog/:id" element={<BlogDetail />} />
           <Route path="/contact" element={<Contact />} />
+          <Route path="/automate" element={<Automate />} />
         </Route>
       </>
     )
